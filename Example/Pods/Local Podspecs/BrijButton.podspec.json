@@ -1,0 +1,22 @@
+{
+  "name": "BrijButton",
+  "version": "0.1.0",
+  "summary": "A short description of BrijButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/brijesh281994@gmail.com/BrijButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "brijesh281994@gmail.com": "brijesh281994@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/brijesh281994@gmail.com/BrijButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BrijButton/Classes/**/*"
+}

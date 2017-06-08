@@ -1,0 +1,6 @@
+framework module BrijButton {
+  umbrella header "BrijButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

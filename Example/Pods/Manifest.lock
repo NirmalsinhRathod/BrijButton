@@ -1,0 +1,16 @@
+PODS:
+  - BrijButton (0.1.0)
+
+DEPENDENCIES:
+  - BrijButton (from `../`)
+
+EXTERNAL SOURCES:
+  BrijButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BrijButton: df04496622368f2765e0267205b48dbfe064c940
+
+PODFILE CHECKSUM: ce864833b013669c8aecb58545051be1c86a09a2
+
+COCOAPODS: 1.1.1

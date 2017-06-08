@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BrijButton_Tests' do
+  pod 'BrijButton', :path => '../'
+  
+  
+end
